@@ -16,22 +16,20 @@ Here are some ideas to get you started:
 -->
 
 ## About Me
-With a background in music performance and DSP, I am a software engineer interested in systems programming and media encoding.  My passion is in designing and developing audio plugins.
+With a background in music performance and DSP, I am a software engineer interested in systems programming and media encoding.  My passion is in designing and developing audio plugins.  I'm excited by projects that push the bounds of technology for social good - I'd love to connect!
 
 ## Technical Skills 🛠️
-- **Languages**: C/C++, TypeScript
-- **Frameworks & Libraries**: JUCE, React, Next.js, Node.js
-- **Tools & Platforms**: Git, Docker
+- **Languages**: C/C++, TypeScript, Java, Python
+- **Frameworks & Libraries**: JUCE, LLVM, React, Next.js, Node.js, ImGUI
+- **Tools & Platforms**: CMake, Git, Docker, GoogleTest, JUnit, Figma
 - **Data Science & AI**:
   
 ## Key Projects
 - <links here>: Description here
 
 ## Professional Goals 🌱
-- **Career Development**:
-- **Continuous Learning**:
+- **Career Development**: Hoping to further my career in software development, in roles that leverage my diverse background and allow me to refine my coding ability.
+- **Learning & Growth**: Dedicated to build my skillsets and expand my horizons, with a focus on deep learning and applications.
 
 ## Connect 📫
 - <linkedin link here>
-
-I'm excited by projects pushing the bounds of technology for good - I'd love to connect!
