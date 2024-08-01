@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## About Me
+## About Me ℹ️
 With a background in music performance and DSP, I am a software engineer interested in systems programming and media encoding.  My passion is in designing and developing audio plugins.  I'm excited by projects that push the bounds of technology for social good - I'd love to connect!
 
 ## Technical Skills 🛠️
@@ -24,7 +24,7 @@ With a background in music performance and DSP, I am a software engineer interes
 - **Tools & Platforms**: CMake, Git, Docker, GoogleTest, JUnit, Figma
 - **Data Science & AI**:
   
-## Key Projects
+## Key Projects 📖
 - <links here>: Description here
 
 ## Professional Goals 🌱
