@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## About Me ℹ️
+## About Me
 With a background in music performance and DSP, I am a software engineer interested in systems programming and media encoding.  My passion is in designing and developing audio plugins.  I'm excited by projects that push the bounds of technology for social good - I'd love to connect!
 
 ## Technical Skills 🛠️
@@ -29,7 +29,7 @@ With a background in music performance and DSP, I am a software engineer interes
 
 ## Professional Goals 🌱
 - **Career Development**: Hoping to further my career in software development, in roles that leverage my diverse background and allow me to refine my coding ability.
-- **Learning & Growth**: Dedicated to build my skillsets and expand my horizons, with a focus on deep learning and applications.
+- **Learning & Growth**: Dedicated to building my skillsets and expanding my horizons, with a focus on deep learning and real-world applications.
 
 ## Connect 📫
 - <linkedin link here>
