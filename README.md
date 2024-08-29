@@ -1,4 +1,3 @@
-👋 Hi There, I'm Stokely Diamantis!  I'm a CS student at SFU focused on safe and highly performant modern C++.
 
 <!--
 **stokelyd/stokelyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +15,13 @@ Here are some ideas to get you started:
 -->
 
 ## About Me
-With a background in music performance and DSP, I am a software engineer interested in systems programming and media encoding.  My passion is in designing and developing audio plugins.  I'm excited by projects that push the bounds of technology for social good - I'd love to connect!
+With a background in music performance and DSP, I am a software engineer interested in systems programming and media applications.  My passion is in designing and developing audio plugins, but I'm excited by any projects that push the bounds of technology for social good.
+
+<!--
+👋 Hi There, I'm Stokely Diamantis!  I'm a CS student at SFU focused on safe and performant modern C++.
+
+## About Me
+With a background in music performance and DSP, I am a software engineer interested in systems programming and media applications.  My passion is in designing and developing audio plugins.  I'm excited by projects that push the bounds of technology for social good - I'd love to connect!
 
 ## Technical Skills 🛠️
 - **Languages**: C/C++, TypeScript, Java, Python
@@ -33,3 +38,4 @@ With a background in music performance and DSP, I am a software engineer interes
 
 ## Connect 📫
 - <linkedin link here>
+-->
