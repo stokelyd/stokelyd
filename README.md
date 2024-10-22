@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--
+
 ## About Me
 With a background in music performance and DSP, I am a software engineer interested in systems programming and media applications.  My passion is in designing and developing audio plugins, but I'm excited by any projects that push the bounds of technology for social good.
--->
+
 
 <!--
 👋 Hi There, I'm Stokely Diamantis!  I'm a CS student at SFU focused on safe and performant modern C++.
